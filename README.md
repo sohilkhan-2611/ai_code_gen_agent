@@ -151,13 +151,6 @@ Recommended practices:
 - Follow PEP 8, add docstrings and type hints.
 - Keep public APIs clear and documented.
 - Ensure examples remain runnable.
-
----
-
-## 📄 License
-
-MIT — see `LICENSE` for details.
-
 ---
 
 ## 🔗 Links
