@@ -1,4 +1,8 @@
 # Build folder and log file
 build/
 build.log
+
+# Ignore virtual environments
+venv/
 .env
+
